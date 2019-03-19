@@ -1,0 +1,203 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+
+}
+
+header > h1 {
+  color: #25272E;
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+  font-size: 300%;
+  font-weight: 100;
+
+}
+
+.Spacer {
+  margin-bottom: 100%;
+  opacity: 0;
+}
+
+.Nav {
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+  font-size: 100%;
+  overflow: hidden;
+  background-color: #efefef;
+  position: fixed;
+  top: 0;
+  width 5%;
+}
+.Nav-Selector {
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+  font-size: 100%;
+  color: #7c7c7c;
+  transition-delay: 0ms;
+}
+.Nav-Selector:hover {
+  color: #ffffff;
+}
+
+.Title-Outer {
+  min-height: 100vh;
+  width: 100%;
+
+  position: relative;
+
+}
+.Title {
+  text-align: center;
+
+  position: absolute;
+
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -60%);
+
+  white-space: nowrap;
+
+
+}
+#Title-Spacer {
+  margin-bottom: 60%;
+}
+.Title li {
+  display: inline-block;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+.Name-Title {
+  color: #25272E;
+  text-align: center;
+  font-family: Montserrat, sans-serif;
+  font-size: 300%;
+  font-weight: 100;
+
+}
+.Title-Tagline {
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+  font-size: 150%;
+  color: #3d3d3d;
+  margin-bottom: 2%;
+
+  transition-delay: 250ms;
+}
+#Title-Line {
+  border-bottom: 1px solid black;
+  width: 60%;
+  margin-left: 20%;
+}
+
+.Line {
+  border-bottom: 1px solid black;
+}
+.Category-Container {
+  margin-left: -10%;
+
+}
+.Category-Selector {
+  font-family: Montserrat, sans-serif;
+  font-weight: 300;
+  font-size: 125%;
+  color: #7c7c7c;
+  transition-delay: 0ms;
+}
+.Category-Selector:hover {
+  color: #000000;
+}
+
+
+
+#Name-Spacer {
+  margin-bottom: 30%;
+}
+
+
+.Project-Outer {
+  min-height: 100vh;
+  position: relative;
+
+}
+.Project {
+  position: absolute;
+  top: 50%;
+
+  transform: translate(-0%, -50%);
+  margin-left: 15%;
+  width: 70%;
+
+
+
+}
+#Project-Spacer {
+  margin-bottom: 0%;
+}
+#Project-Date {
+
+}
+#Project-Title {
+
+}
+#Project-Message {
+
+}
+#Project-Image img {
+
+}
+
+
+.Project-Large-Title {
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+  font-size: 300%;
+  text-align: center;
+}
+.Project-Medium-Title {
+  font-family: Montserrat, sans-serif;
+  font-weight: 100;
+  font-size: 125%;
+  text-align: center;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+.Project-Small-Title {
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
+  font-size: 100%;
+}
+
+.Project-Large-Paragraph {
+  font-family: Raleway, sans-serif;
+  font-weight: 100;
+  font-size: 105%;
+  text-align: center;
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 2%;
+}
+.Project-Medium-Paragraph {
+  font-family: Raleway, sans-serif;
+  font-weight: 300;
+  font-size: 100%;
+}
+.Project-Small-Paragraph {
+  font-family: Raleway, sans-serif;
+  font-weight: 200;
+  font-size: 50%;
+}
+
+.Project-Large-Image img {
+  width: 90%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  max-width: 700px;
+}

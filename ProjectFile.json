@@ -1,0 +1,93 @@
+{
+  "Projects": [
+
+	{
+      "Categories": [
+        0,
+        1,
+        2
+      ],
+      "id": 13,
+      "Title": "Event Horizon",
+      "Description": "A VR/AR multiplayer cross platform spaceship tactical board game. The AR gameplay provides a tactical view for commanders while VR provides an immersive gameplay for individual fighter pilots. By combining the actions of both into one battle, this creates an immersive world and gameplay that can be enjoyed together in a social setting. The game is currently in development, with support for mobile (iOS/Android) for AR, and desktop VR (HTC Vive and Oculus) for the VR portion. ",
+      "Image": "Images/EventHorizon.png",
+      "Tags": [
+        0,
+        1
+      ],
+      "Links": [
+        "",
+        ""
+      ],
+      "Start": "September 2018",
+      "End": "Present"
+    },
+
+
+    {
+      "Categories": [
+        0,
+        1
+      ],
+      "id": 12,
+      "Title": "Mission Multiplication: Reloaded",
+      "Description": "An overhaul of the 2014 version of Mission Multiplication. The entire game was rebuilt graphically and programmatically to modernize the app. In addition, advertisements were implemented into the game to capitalize on the game's popularity.",
+      "Image": "Images/MissionMultiplicationReloaded.png",
+      "Tags": [
+        0,
+        1
+      ],
+      "Links": [
+        "",
+        ""
+      ],
+      "Start": "August 2017",
+      "End": "August 2017"
+    },
+
+
+    {
+      "Categories": [
+        0,
+        1
+      ],
+      "id": 11,
+      "Title": "Squesh",
+      "Description": "Squesh is designed as a frustrating-but-addicting game to capitalize on current trends in the mobile games market. The game contains both a unlockable character system as well as advertisements to increase the lifespan of the game.",
+      "Image": "Images/Squesh.png",
+      "Tags": [
+        0,
+        1
+      ],
+      "Links": [
+        "",
+        ""
+      ],
+      "Start": "August 2017",
+      "End": "August 2017"
+    },
+
+    
+    {
+      "Categories": [
+        0,
+        1,
+        4
+      ],
+      "id": 10,
+      "Title": "Mission: Multiplication",
+      "Description": "Mission Multiplication provides a more entertaining way for kids learning multiplication to practice their times tables by integrating exercises into the gameplay. Customizable features including adjusting the range of numbers being tested and difficulty settings allow the game to be tailored to the individual.",
+      "Image": "Images/MissionMultiplication.png",
+      "Tags": [
+        0,
+        1
+      ],
+      "Links": [
+        "",
+        ""
+      ],
+      "Start": "March 2014",
+      "End": "August 2014"
+    }
+  ]
+}
